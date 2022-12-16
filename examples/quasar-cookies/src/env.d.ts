@@ -6,4 +6,7 @@ declare namespace NodeJS {
     VUE_ROUTER_MODE: 'hash' | 'history' | 'abstract' | undefined;
     VUE_ROUTER_BASE: string | undefined;
   }
+  interface Process {
+    client: boolean;
+  }
 }

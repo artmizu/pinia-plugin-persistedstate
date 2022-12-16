@@ -74,7 +74,7 @@
   },
   "devDependencies": {
     "@prazdevs/eslint-config-typescript": "^3.2.1",
-    "@types/node": "^18.11.9",
+    "@types/node": "^18.11.15",
     "@vitest/coverage-c8": "^0.25.1",
     "@vitest/ui": "^0.25.1",
     "bumpp": "^8.2.1",
